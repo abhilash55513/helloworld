@@ -3,8 +3,7 @@
 <title>Hello World!</title>
 </head>
 <body>
-	<h1>Welcome to CITTECHNOLOGIES...!!!</h1>
-	<h1>k8s deployment and end-to-end project has been completed for batch35!!</h1>
+	<h1>Hello World!!!</h1>
 	<h1>Thank you!!!</h1>
 	<p>
 		It is now
