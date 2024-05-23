@@ -39,16 +39,3 @@ Once the pipeline execution is successful, you can access the application at htt
 Note:
 
 Ensure that port 9090 is not already in use by another application on your host machine.
-
-**Additional Notes:**
-Customize the Jenkins pipeline according to your project's specific requirements.
-Update the Dockerfile and Maven configuration files (pom.xml) as needed for your project.
-Ensure that the Dockerfile is present in the root directory of your project.
-Test the pipeline in a controlled environment before deploying to production.
-By adding this documentation to your README file, users and contributors will have clear instructions on how to set up and run the Jenkins pipeline for your project.
-
-
-
-
-
-
